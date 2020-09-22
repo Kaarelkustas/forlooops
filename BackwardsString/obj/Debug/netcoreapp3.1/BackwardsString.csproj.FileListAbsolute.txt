@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.exe
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.deps.json
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.runtimeconfig.json
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.dll
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.pdb
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.dll
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.pdb
+C:\Users\opilane\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.genruntimeconfig.cache

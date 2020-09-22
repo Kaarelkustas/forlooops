@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.exe
+C:\Users\opilane\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.deps.json
+C:\Users\opilane\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.runtimeconfig.json
+C:\Users\opilane\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.dll
+C:\Users\opilane\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.pdb
+C:\Users\opilane\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.dll
+C:\Users\opilane\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.pdb
+C:\Users\opilane\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.genruntimeconfig.cache
